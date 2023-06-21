@@ -1,5 +1,14 @@
 # Pieazo-electric-road
-Working :
+SUBMITTED BY: TEAM FIRE NINJA
+
+TOPIC:GENERATING ELECTRICITY USING PIEAZO.
+
+TEAM MEMBERS:
+GOHEL MITALI
+PATEL SAKSHI
+PATEL MANSI
+
+WORKING :
 The basic principle which we use to generate electricity is the piezoelectric effect. A piezoelectric material is  
 that one which converts mechanical energy or vibration energy that is experienced on it, to a charge which can  
 be stored. When a force or pressure is exerted on the elastic piezoelectric crystal material, the crystal gets  
