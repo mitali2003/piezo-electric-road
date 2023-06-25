@@ -2,7 +2,7 @@
 
 
 
-# Pieazo-electric-road
+# Piezo-electric-road
 SUBMITTED BY: TEAM FIRE NINJA
 
 TOPIC:GENERATING ELECTRICITY USING PIEAZO.
